@@ -14,12 +14,15 @@
 **💻 Software**  
 - 🌐 Web & Applications  
 - ⚙️ Automation & Utility Tools  
-- 🔧 Open Source Projects  
+- 💻 Desktop App
+- 💻 Android App
 
 **🖥 Hardware**  
 - 🛠 Embedded Systems  
 - 🌐 IoT Projects  
-- 🤖 Microcontroller Prototyping  
+- 🤖 Microcontroller Prototyping
+- 🤖 PLC
+- 💻 HMI
 
 ---
 
